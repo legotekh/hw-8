@@ -1,0 +1,47 @@
+.one{
+    float: left;
+    background-color: black;
+    margin-left: 20px;
+}
+.two{
+    float: right;
+    background-color: black;
+    margin-right: 20px;
+}
+.three{
+    margin-top: 1px;
+}
+.four{
+    margin-left: auto;
+    background-color: black;
+}
+.first_header_element{
+    margin-top: 41px;
+    margin-left: 96px;
+    color: #000000;
+}
+.second_header_element{
+    margin-top: 46px;
+    margin-left: 744px;
+    color: #000000;
+}
+.third_header_element{
+    margin-top: 46px;
+    margin-left: 831px;
+    color: #000000;
+}
+.four_header_element{
+    margin-top: 46px;
+    margin-left: 956px;
+    color: #000000;
+}
+.five_header_element{
+    margin-top: 46px;
+    margin-left: 1094px;
+    color: #000000;
+}
+.six_header_element{
+    margin-top: 46px;
+    margin-left: 1218px;
+    color: #000000;
+}
